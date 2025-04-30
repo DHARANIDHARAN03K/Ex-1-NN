@@ -1,6 +1,6 @@
-DHARANI DHARAN K
-212223040036
-EX. NO.1
+DHARANI DHARAN K\n
+212223040036\n
+EX. NO.1\n
 DATE
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
